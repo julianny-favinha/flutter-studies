@@ -1,16 +1,5 @@
 # flutter_layout_basics
 
-A new Flutter application.
+Just a flutter application to learn layouts with this [tutorial](https://flutter.dev/docs/codelabs/layout-basics).
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="350" alt="screenshot-ios" src="https://user-images.githubusercontent.com/19206736/91624509-2b984180-e977-11ea-8ca2-9e9db8842e38.png">
