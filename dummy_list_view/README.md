@@ -1,16 +1,8 @@
 # dummy_list_view
 
-A new Flutter application.
+Adding elements to a list view. Probably a dummy way to do it.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| <img width="560" src="https://user-images.githubusercontent.com/19206736/91624749-5cc54180-e978-11ea-876b-64c38e133d12.png">  | <img width="567" src="https://user-images.githubusercontent.com/19206736/91624761-7feff100-e978-11ea-870f-e400c2fefccf.gif"> |
+|---|---|
